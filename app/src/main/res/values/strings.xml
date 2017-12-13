@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyCalcGame</string>
+    <string name="one">1</string>
+    <string name="Gamemode">ゲームモード</string>
+</resources>
